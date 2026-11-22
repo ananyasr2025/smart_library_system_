@@ -1,0 +1,6 @@
+{
+  "name": "Smart Library Management System",
+  "description": "Academic Library Management System featuring Student and Librarian portals, intelligent book recommendations, QR code circulation, automated fine management, smart seat reservations, and library analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
